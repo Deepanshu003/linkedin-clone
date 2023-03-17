@@ -1,3 +1,4 @@
+https://user-images.githubusercontent.com/91359646/225901530-c67c5a0a-b154-4a34-b989-38976d71bdfb.mp4
 # LinkedIn Clone
 
 ![LinkedIn Clone Demo](linkedin-gif.gif)
@@ -78,5 +79,5 @@
 **_NOTE: PLEASE LET ME KNOW IF YOU DISCOVERED ANY BUG OR YOU HAVE ANY SUGGESTIONS_**
 
 
-https://user-images.githubusercontent.com/91359646/225901530-c67c5a0a-b154-4a34-b989-38976d71bdfb.mp4
+
 
